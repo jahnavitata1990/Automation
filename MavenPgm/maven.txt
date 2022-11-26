@@ -1,0 +1,3 @@
+Jenkins- Git Repo in the master branch
+
+jenkins->Pom.xml->TestnG.xml->Calling Test Scripting-> Main Funcationlaity - >Page Object Model along withConfigration File
